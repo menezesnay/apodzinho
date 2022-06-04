@@ -149,7 +149,7 @@ main {
     position: absolute;
     width: 0;
     height: 60px;
-    background-color: rgb(109, 108, 108);
+    background-color: rgb(228, 224, 224);
     z-index: -1;
     transition: 1s;
 }
@@ -166,7 +166,7 @@ main {
   }
 
  body{
-    background-image: url(./img/slide3.png);
+    background-image: url(https://i.gifer.com/BVLZ.gif);
     background-repeat: no-repeat;
     background-size: cover;
  } 
